@@ -1,0 +1,69 @@
+🏁 ➡️📄 🔤index.emojicode🔤 ❗️ 🍇
+    🍯 ➡️📄 🔤html🔤 ➡️🔡 🔤en🔤 🍇
+        🍯 ➡️📄 🔤head🔤 ➡️🔡 🔤en🔤 🍇
+            🍯 ➡️📄 🔤meta charset="UTF-8"🔤 ❗️
+            🍯 ➡️📄 🔤meta name="viewport" content="width=device-width, initial-scale=1.0"🔤 ❗️
+            🍯 ➡️📄 🔤title🔤 ➡️🔡 🔤Emojicode Rocks!🔤 ❗️
+            🍯 ➡️📄 🔤style🔤 ➡️🔡 🔤
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f0f0f0;
+                }
+                .container {
+                    max-width: 800px;
+                    margin: auto;
+                    padding: 20px;
+                    background-color: #f0f0f0;
+                    border-radius: 10px;
+                    margin-bottom: 20px;
+                }
+                h1, h2, h4 {
+                    color: #007bff;
+                    text-align: center;
+                    margin-bottom: 10px;
+                }
+                p {
+                    margin-bottom: 20px;
+                    text-align: justify;
+                }
+                pre {
+                    background-color: #f8f9fa;
+                    border-radius: 5px;
+                    padding: 15px;
+                    overflow-x: auto;
+                }
+                ul {
+                    list-style-type: none;
+                    padding: 0;
+                    margin-bottom: 20px;
+                }
+                li {
+                    margin-bottom: 10px;
+                }
+                header, footer {
+                    background-color: #007bff;
+                    color: #fff;
+                    text-align: center;
+                    padding: 10px 0;
+                    margin-bottom: 20px;
+                }
+            🔤 ❗️
+        🍉
+    🍉
+    🍯 ➡️📄 🔤body🔤 ➡️🔡 🔤en🔤 🍇
+        🍯 ➡️📄 🔤header🔤 ➡️🔡 🔤en🔤 🍇
+            🍯 ➡️📄 🔤h1🔤 ➡️🔡 🔤Emojicode or Die!🔤 ❗️
+            🍯 ➡️📄 🔤p🔤 ➡️🔡 🔤Here's why Emojicode is TOP CHOICE!🔤 ❗️
+        🍉
+        🍯 ➡️📄 🔤main🔤 ➡️🔡 🔤en🔤 🍇
+            🍯 ➡️📄 🔤container1🔤 ➡️🔡 🔤en🔤 🍇
+                🍯 ➡️📄 🔤p1🔤 ➡️🔡 🔤Emojicode is a playful introduction to programming concepts. It uses emojis instead of keywords and symbols, making it a visual and engaging way to learn the basics of coding logic.🔤 ❗️
+                🍯 ➡️📄 🔤p2🔤 ➡️🔡 🔤Here's an example of an Emojicode program that prints "Hello, world!" to the screen:🔤 ❗️
+                🍯 ➡️📄 🔤pre🔤 ➡️🔡 🔤
+"Hello, world!"❗️
+                🔤 ❗️
+                🍯 ➡️📄 🔤ul🔤 ➡️🔡 🔤
+                    🍯 ➡️📄 🔤li1🔤 ➡️🔡 🔤: - Starts the Emojicode program.🔤 ❗️
+                    🍯 ➡️📄 🔤li2🔤 ➡️🔡 🔤: - Denotes the beginning of a code block.🔤 ❗️
+                    🍯 ➡️📄 🔤li3🔤 ➡️🔡 🔤"Hello, world!"❗️ - Prints the message using the ❗️ emoji and the string "Hello, world!"🔤 ❗️
+                    🍯 ➡️📄 🔤li4🔤 ➡️🔡 🔤: - Marks
